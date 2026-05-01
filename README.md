@@ -1,0 +1,2 @@
+# FreedomSchool
+school
